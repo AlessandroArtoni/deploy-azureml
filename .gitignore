@@ -3,5 +3,5 @@ azureml-models
 __init__.py
 **/__pycache__
 __pycache__/
-models
+models/*
 credentials.json
